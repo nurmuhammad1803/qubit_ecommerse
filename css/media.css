@@ -1,0 +1,177 @@
+@media(max-width: 1399px) {
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-inline: 0;
+  }
+}
+
+@media(max-width: 1199px) {
+  .header__nav .nav-link {
+    font-size: 16px;
+    margin: 0px 9px;
+  }
+
+  .nav__login {
+    margin-left: 11px;
+  }
+
+  .header__title {
+    padding: 100px 0px 130px;
+  }
+
+  .commerse_ai {
+    padding: 31px 0px;
+  }
+
+  .ease__title {
+    margin-bottom: 50px;
+  }
+
+  .ease__img img {
+    width: 100%;
+  }
+
+  .ease {
+    padding: 60px 0px;
+  }
+
+  .ease__more {
+    margin-top: 30px;
+  }
+
+  .industry {
+    padding: 30px 0px;
+  }
+
+  .industry__wrap ul li {
+    padding: 30px;
+    width: 45%;
+    margin: 20px;
+  }
+
+  .leading {
+    padding: 40px 0px 50px;
+    background: #F5F5F5;
+  }
+}
+
+@media(max-width: 991px) {
+  .navbar-toggler {
+    background: transparent;
+    border: none;
+    transition: .1s;
+  }
+
+  .navbar-light .navbar-toggler {
+    color: transparent;
+    border: none;
+  }
+
+  .navbar-toggler i {
+    color: #000;
+    font-size: 25px;
+  }
+
+  .navbar__log {
+    justify-content: flex-end;
+  }
+
+  .navbar-nav {
+    align-items: flex-end;
+    margin: 15px 0px !important;
+  }
+
+  .navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 18px;
+  }
+
+  .nav__login {
+    margin-left: 25px;
+  }
+
+  .brands__img {
+    flex-wrap: wrap;
+    justify-content: center !important;
+  }
+
+  .brands__img img {
+    margin: 0px 10px;
+  }
+
+  .faster__col__title {
+    font-size: 35px;
+    line-height: 35px;
+  }
+
+  .faster__links {
+    margin-top: 35px;
+  }
+
+  .faster .brand__link {
+    margin-left: 19px;
+  }
+
+  .faster {
+    padding-bottom: 45px;
+  }
+
+  .industry__wrap ul li {
+    margin: 20px;
+    width: 80%;
+  }
+}
+
+@media(max-width: 767px) {
+  .faster .row {
+    flex-wrap: wrap;
+    justify-content: center;
+
+  }
+
+  .faster {
+    text-align: center;
+  }
+
+  .faster__links {
+    justify-content: center !important;
+  }
+
+  .faster__red {
+    margin-top: 20px;
+  }
+
+  .subtitle {
+    text-align: center;
+  }
+
+  .brands {
+    padding-bottom: 40px;
+  }
+}
+
+@media(max-width: 575px) {
+  .header__title {
+    background: #F6BED9;
+    text-align: center;
+    padding: 60px 0px;
+  }
+
+  .title__info {
+    width: 100%;
+  }
+
+  .title__email {
+    width: 80%;
+  }
+
+  .industry__wrap ul {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+
+  .industry__wrap ul li {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+  }
+}
